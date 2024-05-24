@@ -1,6 +1,4 @@
-# Toolbox Pentasting
-
-Ce projet est une collection d'outils de Pentesting accessibles via une interface graphique. Il suffit de lancer `box.py` pour accéder à toutes les fonctionnalités sans avoir à exécuter les scripts individuellement.
+# Toolbox - M1 Cybersécurité
 
 ## Fonctionnalités
 
